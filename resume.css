@@ -88,17 +88,20 @@ h1{
 
     background-color: rgb(24, 176, 24);
     width:100px;
+    height:20px;
     position:absolute;
 }
 .alright{
 
     background-color: rgb(109, 166, 24);
     width:80px;
+    height:20px;
     position:absolute;
 }
 
 .notGood{
     background-color: rgb(159, 166, 24);
     width:50px;
+    height:20px;
     position:absolute;
 }
